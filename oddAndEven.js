@@ -1,0 +1,8 @@
+//boucle while odd and even
+let i=1;
+while (i<20) {
+   if (i%2 !=0) {
+      console.log("impaire");
+    }else{ console.log("paire")};
+    i+=1;
+      }
